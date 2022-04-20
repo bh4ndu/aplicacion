@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300;1,400&display=swap');
+.contenedor {
+	width: 360px;
+	height: 947px;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+.titulo {
+text-align: center;
+height: 33px;
+left: 121px;
+top: 67px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: #262626;
+}
+
+.a1 {
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+position: static;
+width: 328px;
+height: 88px;
+left: 16px;
+top: 140px;
+text-align: center;
+
+background: #FFFFFF;
+/* Principal */
+
+border: 0.5px solid #5F2074;
+box-sizing: border-box;
+box-shadow: 4px 6px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+}
+
+
+h4	{
+text-align: center;
+width: 207px;
+height: 24px;
+left: 22px;
+top: 255px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.38px;
+
+}
+
+.roja {
+
+	align-content: center;
+width: 328px;
+height: 53px;
+left: 16px;
+top: 297px;
+
+background: #DB5B65;
+border-radius: 10px;
+color: white;
+}
+.azul {
+	align-content: center;
+width: 328px;
+height: 53px;
+left: 16px;
+top: 370px;
+
+background: #5F2074;
+border-radius: 10px;
+color: white;
+}
